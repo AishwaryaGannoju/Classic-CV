@@ -9,3 +9,6 @@ Professor John Kleinberg's Personal Site (developed the HITS algorithm for web s
 http://www.cs.cornell.edu/home/kleinber/
 Professor Emeritus Donald Knuth's Personal Site (author of the Art of Computer Programming)
 https://www-cs-faculty.stanford.edu/~knuth/
+
+
+And this is my version of a classic CV : https://aishwaryagannoju.github.io/Classic-CV/
